@@ -1,12 +1,12 @@
 //import React Components
-import React from "react";
+import React from "react"
 
-//import React Dom
-import ReactDOM from "react-dom";
+//import React Do
+import ReactDOM from "react-dom"
 
 
 
-import App from "./components/App";
+import App from "./components/App"
 
 
 
