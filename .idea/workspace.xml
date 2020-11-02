@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c2ac63c-b4b0-4f04-a6a0-97258edf230b" name="Default Changelist" comment="" />
+    <list default="true" id="5c2ac63c-b4b0-4f04-a6a0-97258edf230b" name="Default Changelist" comment="2nd commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jXuc4oLPi6vDOQDpdE1xO8HaBW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,11 +51,23 @@
       <option name="presentableId" value="Default" />
       <updated>1603962833538</updated>
       <workItem from="1603962834796" duration="2682000" />
-      <workItem from="1604299739471" duration="6172000" />
+      <workItem from="1604299739471" duration="6476000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <created>1604307780424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604307780424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>
