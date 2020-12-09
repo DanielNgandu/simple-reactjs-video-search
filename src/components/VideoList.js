@@ -15,8 +15,9 @@ const VideoList = props=> {
             <div className="image">
 
                 <ReactPlayer
+                    className='react-player'
                     url={'https://www.youtube.com/watch?v='+video.id.videoId}
-                    width='600px'
+
                 />
             </div>
             <div className="content">
